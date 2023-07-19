@@ -5,7 +5,7 @@ const navBarContainer = document.querySelector(".navbar-container")
 togle.addEventListener("click",handleClick);
 
 function handleClick(e) {
-	// console.log(navBarContainer)
+	console.log(navBarContainer)
 	navBarContainer.classList.toggle("active");
 	togle.innerHTML = "&#10005";
 	if(navBarContainer.classList.contains("active")){

@@ -43,6 +43,7 @@ ul li{
 	cursor: pointer;
 	display: inline-block;
 	font-size: 1.4rem;
+	border: 12px solid red;
 }
 .navbar-container{
 	width: 100%;
