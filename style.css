@@ -43,7 +43,7 @@ ul li{
 	cursor: pointer;
 	display: inline-block;
 	font-size: 1.4rem;
-	border: 12px solid red;
+	/*border: 12px solid red;*/
 }
 .navbar-container{
 	width: 100%;
@@ -350,7 +350,7 @@ footer{
 
 
 @media(min-width: 650px){
-l atest-article{	
+latest-article{	
 	text-align: center;
 }
 .online-banking:first-child img,.budgeting img,.onboarding img,.api img{
