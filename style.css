@@ -210,7 +210,7 @@ footer{
 }
 .footer-logo{
     width: 70%;
-	margin: 20px 0px 20px 13%;
+	margin: 20px 0px 20px 14%;
 	padding-top: 30px;
 }
 .footer-logo img{
@@ -222,7 +222,7 @@ footer{
 	margin-top: 10px;
 }
 .media-container{
-	margin-left: 25%;
+	margin-left: 24%;
     display: flex;
 	flex-flow: row wrap;
 }
@@ -273,12 +273,12 @@ footer{
 =========================*/
 @media(min-width: 355px){
 .phoneImage2 img{
-   margin-top: -25.5rem;
+   margin-top: -30.5rem;
 }
 }
 @media(min-width: 440px){
 .phoneImage2 img{
-   margin-top: -31.5rem;
+   margin-top: -34.5rem;
 }
 .online-banking:first-child img,.budgeting img,.onboarding img,.api img{
     margin-left: 35%;
@@ -319,12 +319,12 @@ footer{
 	font-size: 20px;
 }
 .phoneImage2 img{
-	margin-top: -36rem;
+	margin-top: -38rem;
 }
 }
 @media(min-width: 612px){
 .phoneImage2 img{
-   margin-top: -43.5rem;
+   margin-top: -45.5rem;
 }
 .online-banking:first-child img,.budgeting img,.onboarding img,.api img{
     margin-left: 40%;
@@ -337,7 +337,7 @@ footer{
 }
 @media(min-width: 720px){
 .phoneImage2 img{
-   margin-top: -51rem;
+   margin-top: -57rem;
 }
 }
 @media(min-width: 850px){
@@ -369,15 +369,15 @@ latest-article{
 /*=========/*/*=============
  desktop device
 =========================*/
-/*@media(min-width:912px){
+@media(min-width:912px){
 .phoneImage1 img{
-	width: 35%;
-	margin-left: 28%;
+	/*width: 35%;*/
+	/*margin-left: 28%;*/
 }
 .phoneImage2 img{
-	width: 35%;
-	margin-top: -17rem;
-	margin-left: 28%;
+	/*width: 35%;*/
+	/*margin-top: -17rem;*/
+	/*margin-left: 28%;*/
 }
 .sec2-firstchild div:first-child{
 	margin-left: 34%;
@@ -479,7 +479,7 @@ figure img{
 	display: flex;
     flex-flow: row wrap;
 	padding: 0;
-	margin-left: 5%;*/
+	margin-left: 5*/*/*//*%;
 	/*display:inline-block;
 	background:transparent;
 	/*position: static;
@@ -513,7 +513,7 @@ ul li{
 	text-align: center;
 	padding-top: 7px;
 	margin-left: 3rem;
-}
+}*/
 }
 @media(min-width: 1000px){
 	ul li{
