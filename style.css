@@ -222,7 +222,7 @@ footer{
 	margin-top: 10px;
 }
 .media-container{
-	margin-left: 26%;
+	margin-left: 22%;
     display: flex;
 	flex-flow: row wrap;
 }
@@ -420,9 +420,10 @@ ul li{
 
 
 
-
-
-
+.online-banking,.simple-budgeting,.open-api,.fast-onboarding{
+height: 25rem;
+/*background-color: red;*/
+}
 
 .phoneImage1 img{
 	/*display: none;*/
